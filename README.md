@@ -1,5 +1,6 @@
 # VRC-InvertidorPantallaCuack
-Canvas menu con botones con un simple script para invertir la pantalla del reproductor.
+Algunas veces en video reproductores del vrchat, la pantalla se buggea y muestra videos invertidos (modo espejo).
+Este  prefab agrega un canvas menu con botones con un simple script para invertir la pantalla del reproductor.
 
 # Instrucciones:
 Nota: Los planos-Pantallas no deben estar en estaticos.
