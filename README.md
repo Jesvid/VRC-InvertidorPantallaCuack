@@ -5,7 +5,7 @@ Canvas menu con botones con un simple script para invertir la pantalla del repro
 Nota: Los planos-Pantallas no deben estar en estaticos.
 1. Importar el prefab en la escena.
 2. Asginar las pantallas que se desea invertir.
-3. 
+ 
 
 
 # Imagenes:
