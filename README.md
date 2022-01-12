@@ -17,6 +17,7 @@ https://github.com/Jesvid/VRC-InvertidorPantallaCuack/releases
 
 # Requerimientos:
 -Ultima version de vrchat sdk 3
+
 -Ultima version udonSharp
 
 # License:
